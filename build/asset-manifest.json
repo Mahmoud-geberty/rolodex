@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mahmoud-geberty.github.io/rolodex/static/css/main.9c7e10f7.chunk.css",
+    "main.js": "/mahmoud-geberty.github.io/rolodex/static/js/main.635436cb.chunk.js",
+    "main.js.map": "/mahmoud-geberty.github.io/rolodex/static/js/main.635436cb.chunk.js.map",
+    "runtime-main.js": "/mahmoud-geberty.github.io/rolodex/static/js/runtime-main.d42de9ab.js",
+    "runtime-main.js.map": "/mahmoud-geberty.github.io/rolodex/static/js/runtime-main.d42de9ab.js.map",
+    "static/js/2.4058bf1b.chunk.js": "/mahmoud-geberty.github.io/rolodex/static/js/2.4058bf1b.chunk.js",
+    "static/js/2.4058bf1b.chunk.js.map": "/mahmoud-geberty.github.io/rolodex/static/js/2.4058bf1b.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/mahmoud-geberty.github.io/rolodex/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/mahmoud-geberty.github.io/rolodex/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/mahmoud-geberty.github.io/rolodex/index.html",
+    "static/css/main.9c7e10f7.chunk.css.map": "/mahmoud-geberty.github.io/rolodex/static/css/main.9c7e10f7.chunk.css.map",
+    "static/js/2.4058bf1b.chunk.js.LICENSE.txt": "/mahmoud-geberty.github.io/rolodex/static/js/2.4058bf1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d42de9ab.js",
+    "static/js/2.4058bf1b.chunk.js",
+    "static/css/main.9c7e10f7.chunk.css",
+    "static/js/main.635436cb.chunk.js"
+  ]
+}
